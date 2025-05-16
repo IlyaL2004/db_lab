@@ -1,0 +1,8 @@
+streamlit
+redis
+streamlit-autorefresh
+pygments
+psycopg2-binary
+python-dotenv
+pyjwt
+pandas
